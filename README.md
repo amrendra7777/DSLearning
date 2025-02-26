@@ -2,7 +2,7 @@
 
 I want to make this project as my mini project in the college.
 
-# What this does
+## What this does
 
 It takes the syllabus from the student and extract the text from that pdf. 
 Now it uses nlp to understand that text and we use the machine learning algorithms to take out insigts from that text.
